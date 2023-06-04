@@ -50,11 +50,13 @@ while True:
 ```
 # OUTPUT :
 ## Client:
-![image](https://github.com/harinidq/EX-4/assets/113497680/66124f82-b41b-4691-8723-a780671953df)
+![image](https://github.com/Jeevapriya14/EX-4/assets/121003043/fa65d08b-fad4-4b7a-a2d5-564ab81b0371)
+
 
 
 ## Server:
-![image](https://github.com/harinidq/EX-4/assets/113497680/37c4f81c-4ea9-4b48-8f28-7756f7b0152b)
+![image](https://github.com/Jeevapriya14/EX-4/assets/121003043/4deb0a50-5643-4f06-8fe6-f970a7ba3304)
+
 
 
 # RESULT :
